@@ -1,0 +1,19 @@
+# Abaikan Virtual Environment
+venv/
+
+# Abaikan file konfigurasi/editor lokal
+.idea/
+.vscode/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan file log
+*.log
+kernel.errors.txt
+
+# Abaikan data hasil eksekusi
+.DS_Store
+capstone-dibimbing/

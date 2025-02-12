@@ -1,0 +1,6 @@
+MODEL_PATH : "models/best_openvino_model"
+TASK : "segment"
+HOST : "127.0.0.1"
+PORT : 8000
+
+API_URL : "http://127.0.0.1:8000/predict/"
